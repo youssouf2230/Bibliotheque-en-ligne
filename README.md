@@ -4,6 +4,8 @@ Ce projet vise à moderniser le système de gestion de la bibliothèque de notre
 
 ## 💡 Description
 Nous développons une solution informatisée basée sur Django qui permettra de :
+<img width="726" height="375" alt="image" src="https://github.com/user-attachments/assets/0d8e6a28-228e-4b2b-a069-c3af90fcfbeb" />
+
 
 ## 📖 Automatiser la gestion des prêts, retours et réservations de documents
 
